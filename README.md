@@ -26,4 +26,4 @@ Atualmente, atuo como programador backend. Embora ainda não seja amplamente rec
 
 ## Perfis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Roblox_%282025%29_%28App_Icon%29.svg/960px-Roblox_%282025%29_%28App_Icon%29.svg.png" width="30"/> https://www.roblox.com/pt/users/5155666244/profile
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Roblox_%282025%29_%28App_Icon%29.svg/960px-Roblox_%282025%29_%28App_Icon%29.svg.png" width="30"/> [Roblox](https://www.roblox.com/pt/users/5155666244/profile)
