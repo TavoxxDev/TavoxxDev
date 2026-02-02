@@ -19,3 +19,9 @@ Atualmente, atuo como programador backend. Embora ainda não seja amplamente rec
 
 - Criação de diferentes tipos de bots para Discord
 - Desenvolvimento de aplicações web
+
+
+
+
+
+## Perfis
