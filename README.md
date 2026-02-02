@@ -17,6 +17,6 @@ Hoje sou um programador backend não muito reconhecido, mais sou muito bom no qu
 
 ## Especialidades
 
-**Criação de variados tipos de bots para Discord**
+**•Criação de variados tipos de bots para Discord**
 
-**Aplicação web**
+**•Aplicações web**
