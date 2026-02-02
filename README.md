@@ -25,3 +25,5 @@ Atualmente, atuo como programador backend. Embora ainda não seja amplamente rec
 
 
 ## Perfis
+
+https://www.roblox.com/pt/users/5155666244/profile
