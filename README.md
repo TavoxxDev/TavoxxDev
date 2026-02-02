@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6JD7z32Z/3-Sem-T-tulo-20260201213213.png" width="300"/>
+<img src="https://i.ibb.co/6JD7z32Z/3-Sem-T-tulo-20260201213213.png" width="700"/>
 
 ## Tavoxx
 
