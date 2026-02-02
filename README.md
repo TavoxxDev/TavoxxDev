@@ -27,3 +27,5 @@ Atualmente, atuo como programador backend. Embora ainda não seja amplamente rec
 ## Perfis
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Roblox_%282025%29_%28App_Icon%29.svg/960px-Roblox_%282025%29_%28App_Icon%29.svg.png" width="30"/> [Roblox](https://www.roblox.com/pt/users/5155666244/profile)
+
+[LinkedIn](https://www.linkedin.com/in/luiz-ot%C3%A1vio-de-oliveira-santos-5844182ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
