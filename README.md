@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/6JD7z32Z/3-Sem-T-tulo-20260201213213.png" width="1000"/>
-
 ## Tavoxx
 
 Olá, sou Tavoxx, também conhecido como Dbk. Desde cedo, tive o sonho de me tornar programador, mas no início não sabia por onde começar.
