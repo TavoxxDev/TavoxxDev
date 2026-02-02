@@ -5,6 +5,8 @@ Comecei estudando por meio de tutoriais no YouTube e cursos gratuitos disponíve
 
 Atualmente, atuo como programador backend. Embora ainda não seja amplamente reconhecido, tenho domínio no que faço e busco aprimoramento constante por meio da prática e do estudo contínuo.
 
+<img src="https://i.ibb.co/LDfFqpLH/509918b2b60b25cd2d683f9963f0f59a.gif" width="300"/>
+
 ## Linguagens aprendidas
 
 <img src="https://i.ibb.co/fYCd7qZw/1-Sem-T-tulo-20260201210734.png" width="300"/>
