@@ -8,7 +8,7 @@ Atualmente, atuo como desenvolvedor backend, com foco na criação de sistemas e
 
 Meu objetivo é evoluir continuamente como desenvolvedor, contribuir para projetos relevantes e entregar soluções de alta qualidade que atendam tanto aos requisitos técnicos quanto às necessidades dos usuários.
 
-<img src="https://i.ibb.co/LDfFqpLH/509918b2b60b25cd2d683f9963f0f59a.gif" width="600"/>
+<img src="https://i.ibb.co/LDfFqpLH/509918b2b60b25cd2d683f9963f0f59a.gif" width="100"/>
 
 ---
 
